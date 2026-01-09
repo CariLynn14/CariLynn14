@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Carissa Pelley, I am a student at Cascadia College.
+
+My pronouns are she/her.
+
+I am studying Computer Science with an future interest in Computational Physics.
+
+I am interested in Mathematics, Physics, History, as well as strategy games and science fiction.
 <!--
 **CariLynn14/CariLynn14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
